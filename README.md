@@ -4,6 +4,8 @@
 
 You can train and run the model in real-time with ~30fps on NVIDIA-MX150 GPU
 
+![](https://github.com/Golbstein/Keras-Real-Time-Style-Transfer/blob/master/examples/real_neural_style.gif)
+
 ## How to run demo:
 
 ```
