@@ -19,8 +19,7 @@ or: `python real_time_neural_style.py picaso`
 * Keras>2.2.x
 * opencv
 
-## Results of multi-loss
-
+## Results
 * Dataset: Pascal VOC 2012
 
 ![alt text](https://github.com/Golbstein/EDSR-Keras/blob/master/cat.png)
