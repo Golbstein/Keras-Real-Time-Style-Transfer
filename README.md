@@ -17,6 +17,7 @@ or: `python real_time_neural_style.py picaso`
 ## Dependencies
 * Python 3.6
 * Keras>2.2.x
+* opencv
 
 ## Results of multi-loss
 
