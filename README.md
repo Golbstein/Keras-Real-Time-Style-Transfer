@@ -11,7 +11,7 @@ git clone https://github.com/Golbstein/Keras-Real-Time-Style-Transfer.git
 cd Keras-Real-Time-Style-Transfer
 python real_time_neural_style.py armchair
 ```
-or: `python real_time_neural_style.py picaso`
+or: `python real_time_neural_style.py picasso`
 
 
 ## Dependencies
