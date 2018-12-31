@@ -22,6 +22,6 @@ or: `python real_time_neural_style.py picaso`
 ## Results
 * Dataset: Pascal VOC 2012
 
-![alt text](https://github.com/Golbstein/EDSR-Keras/blob/master/cat.png)
+![alt text](https://github.com/Golbstein/Keras-Real-Time-Style-Transfer/blob/master/examples/armchair.JPG)
 
-![alt text](https://github.com/Golbstein/EDSR-Keras/blob/master/bird.png)
+![alt text](https://github.com/Golbstein/Keras-Real-Time-Style-Transfer/blob/master/examples/picasso.JPG)
